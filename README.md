@@ -1,0 +1,1 @@
+# PostgreSQL-Querys_PatikaDev
